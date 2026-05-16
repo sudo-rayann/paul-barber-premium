@@ -76,6 +76,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "description", content: "Premium men's grooming salon in Muweilah, Sharjah. Haircuts, skin fades, beard styling, facials. 4.9★ rated." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "Paul Barber Branch 3 — Best Gents Salon in Muweilah, Sharjah" },
+      { name: "twitter:title", content: "Paul Barber Branch 3 — Best Gents Salon in Muweilah, Sharjah" },
+      { property: "og:description", content: "Premium men's grooming salon in Muweilah, Sharjah. Haircuts, skin fades, beard styling, facials. 4.9★ rated." },
+      { name: "twitter:description", content: "Premium men's grooming salon in Muweilah, Sharjah. Haircuts, skin fades, beard styling, facials. 4.9★ rated." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/ed310239-28a5-48b4-8784-33bbe3b31ba7/id-preview-ea3aa413--5cdc39e8-5283-4622-b28c-7d7bce0bc8ca.lovable.app-1778919453803.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/ed310239-28a5-48b4-8784-33bbe3b31ba7/id-preview-ea3aa413--5cdc39e8-5283-4622-b28c-7d7bce0bc8ca.lovable.app-1778919453803.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
